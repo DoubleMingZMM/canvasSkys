@@ -57,7 +57,7 @@
         if (!ignore) {
             edges.push(edge);
         }
-    }
+    }               
 
     function step() {
         nodes.forEach(function (e) {
